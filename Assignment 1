@@ -1,0 +1,20 @@
+Input File ➝ AWS Lambda Pricing.pdf
+
+
+Desired Output ➝
+{
+ "output": [
+ {
+ "id": "0",
+ "Architecture": "First 6 Billion GB-seconds / month",
+ "Duration": "$0.0000166667 for every GB-second",
+ "Requests": "$0.20 per 1M requests"
+ },
+{
+ "id": "1",
+ "Architecture": "First 6 Billion GB-seconds / month",
+ "Duration": "$0.0000166667 for every GB-second",
+ "Requests": "$0.20 per 1M requests"
+ },
+]
+}
